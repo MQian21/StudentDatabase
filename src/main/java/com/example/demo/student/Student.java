@@ -2,6 +2,8 @@ package com.example.demo.student;
 
 import javax.persistence.*;
 import java.time.LocalDate;
+
+// Spring Data JPA Annotations
 @Entity
 @Table
 public class Student {
