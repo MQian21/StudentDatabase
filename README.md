@@ -1,4 +1,4 @@
-# 1. Spring Boot Student Database
+# 1. Spring Boot Student REST API
 
 This is Spring Boot-based application written in Java. Spring is a mature framework that allows us to quickly create very powerful and feature-rich applications and APIs. 
 This application allows the client to manage and record student information.
